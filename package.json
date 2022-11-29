@@ -1,0 +1,19 @@
+{
+  "name": "l1-js-dom",
+  "version": "1.0.0",
+  "description": "Sample code for HTML dom manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "static-html-server -p 8080 -r ./ -f index.html"
+  },
+  "keywords": [
+    "DOM",
+    "JavaScript"
+  ],
+  "author": "Ian Okumu",
+  "license": "ISC",
+  "dependencies": {
+    "static-html-server": "^0.1.2"
+  }
+}
